@@ -38,8 +38,7 @@
 ④py文件为第四个页面设定路径为"/map_details"，需要通过第三个页面提交表单才可以触发跳转，通过return render_template传输"page_03_details.html",为数据传输准备的"plot_all","data_str""regions_available"
 
 ### 🎥 Webapp的动作描述
-3. Webapp的动作描述。
-   * 封面的cover与前后的跳转按钮
+   * 封面的cover与前后页面的跳转按钮
    * 在顶部导航栏设置了超链接跳转至不同的可视化界面。
    * 在最后总结页面设置了下拉选择框可以选择3个故事过程的总结。
 
