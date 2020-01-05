@@ -24,9 +24,9 @@
 ①导入了需要用到的模块
 
 ②对数据进行清洗处理过程中使用数据循环与数据结构
-/page_01_Number_of_guns.html'
+/map_01_details.html"将每个枪击案件添加到事件特性组
 
-③写了不同的路径
+③写了不同的路径URL跳转
 
 ①py文件中为第一个页面设立路径为"/"
    通过"return render_template"将封装好的"over_line_sactter"函数的数据和"page_01_Number_of_guns.html页面到"/"
